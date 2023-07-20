@@ -1,4 +1,8 @@
-### Hi there 👋
+- 👋 Hi, I’m @Danesed
+- 🌱 I’m currently a research fellow at SisInfLab, Polytechnic of Bari, Italy 
+- 🔭 I’m interested in Artificial Intelligence & Machine Learning
+- 🌠 I'm exploring Generative Models and Computer Vision
+- 📫 Please, contact me on my institutional mail: danilo.danese@poliba.it
 
 <!--
 **Danesed/Danesed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
