@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm @Danesed</h2>
 
-- 🌱 I’m currently a **research fellow at SisInfLab, Polytechnic of Bari, Italy**
+- 🌱 I’m currently a **PhD student at SisInfLab, Polytechnic of Bari, Italy**
 - 🔭 I’m interested in **Artificial Intelligence & Machine Learning**
 - 🌠 I'm exploring **Generative Models and Computer Vision**
 - 📫 Please, contact me on my institutional mail: **danilo.danese@poliba.it**
