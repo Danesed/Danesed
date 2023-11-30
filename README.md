@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently a **PhD student at SisInfLab, Polytechnic of Bari, Italy**
 - 🔭 I’m interested in **Artificial Intelligence & Machine Learning**
-- 🌠 I'm exploring **Generative Models and Computer Vision**
+- 🌠 I'm exploring **Generative Models and Computer Vision** in HDLSS domain.
 - 📫 Please, contact me on my institutional mail: **danilo.danese@poliba.it**
 <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://www.linkedin.com/in/danilodanese/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danilodanese/" height="20em" width="20em" /></a>
 </p>
