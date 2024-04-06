@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/danilodanese/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danilodanese/" height="20em" width="20em" /></a>
-  <a href="https://twitter.com/danilo_danese" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/2126px-X_logo_2023.svg.png" alt="https://twitter.com/danilo_danese" height="20em" width="20em" style="background-color:white; padding:2px;" /></a>
+  <a href="https://twitter.com/danilo_danese" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-round-icon.png alt="https://twitter.com/danilo_danese" height="20em" width="20em" style="background-color:white; padding:2px;" /></a>
   <a href="https://scholar.google.com/citations?user=ZH-iXrkAAAAJ&hl" target="blank"><img align="center" src="https://user-images.githubusercontent.com/66117993/96351903-818a8b00-1084-11eb-96f6-3a931d66fff6.png" alt="https://scholar.google.com/citations?user=ZH-iXrkAAAAJ&hl" height="20em" width="20em" /></a>
   <a href="https://danesed.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://danesed.github.io/" height="20em" width="20em" /></a>
 </div>
