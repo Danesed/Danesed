@@ -1,32 +1,37 @@
-<h2 align="center">Hi 👋, I'm @Danesed</h2>
+<a href="https://danesed.github.io">
+  <img src="banner.svg" width="100%" alt="Danilo Danese. AI researcher. Generative AI for high-dimensional, low-sample-size domains.">
+</a>
 
-- 🌱 I’m currently a **PhD student at SisInfLab, Polytechnic of Bari, Italy**
-- 🔭 I’m interested in **Artificial Intelligence & Machine Learning**
-- 🌠 I'm exploring **Generative Models and Computer Vision** in HDLSS domain.
-- 📫 Please, contact me on my institutional mail: **danilo.danese@poliba.it**
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/danilodanese/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danilodanese/" height="20em" width="20em" /></a>
-  <a href="https://twitter.com/danilo_danese" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-x-logo-101C7D2420-seeklogo.com.png" alt="https://twitter.com/danilo_danese" height="20em" width="20em" /></a>
-  <a href="https://scholar.google.com/citations?user=ZH-iXrkAAAAJ&hl" target="blank"><img align="center" src="https://user-images.githubusercontent.com/66117993/96351903-818a8b00-1084-11eb-96f6-3a931d66fff6.png" alt="https://scholar.google.com/citations?user=ZH-iXrkAAAAJ&hl" height="20em" width="20em" /></a>
-  <a href="https://danesed.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://danesed.github.io/" height="20em" width="20em" /></a>
-</div>
+<p align="center">
+  <a href="https://danesed.github.io"><b>danesed.github.io</b></a> ·
+  <a href="https://scholar.google.com/citations?user=ZH-iXrkAAAAJ">Google Scholar</a> ·
+  <a href="https://dblp.org/pid/372/0698">dblp</a> ·
+  <a href="https://www.linkedin.com/in/danilodanese/">LinkedIn</a> ·
+  <a href="https://twitter.com/danilo_danese">X</a> ·
+  danilo.danese [at] poliba.it
+</p>
 
+I work on scalable generative models for high-dimensional, low-sample-size domains at
+[SisInfLab](https://sisinflab.poliba.it/), Politecnico di Bari: flow- and diffusion-based
+synthesis for full-resolution 3D brain MRI, wavelet-domain flow matching, anatomy-aware
+evaluation and explainable AI, and multimodal representations for recommendation.
 
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danesed&show_icons=true&locale=en&layout=compact" alt="danesed" /></p>
+The curves above are cortical folds: the boundary between grey and white matter, traced from
+neighbouring slices of my brain MRI. The banner moves slowly from one slice to the next.
 
-<!--
-**Danesed/Danesed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Research code
 
-Here are some ideas to get you started:
+| | | |
+| --- | --- | --- |
+| **[FlowLet](https://github.com/Danesed/FlowLet)** | Conditional 3D brain MRI synthesis with wavelet flow matching. *Medical Image Analysis*, 2026. | [paper](https://doi.org/10.1016/J.MEDIA.2026.104161) · [arXiv](https://arxiv.org/abs/2601.05212) · [page](https://danesed.github.io/flowlet-page/) |
+| **[WaveDiT](https://github.com/sisinflab/WaveDiT)** | Distribution-aware wavelet flow matching for efficient 3D brain MRI synthesis. MICCAI 2026. | [paper](https://doi.org/10.1007/978-3-032-38189-7_59) · [arXiv](https://arxiv.org/abs/2606.08670) · [page](https://danesed.github.io/wavedit-page/) |
+| **[Ducho](https://github.com/sisinflab/Ducho)** | A unified framework to extract multimodal features for recommendation, and large-scale benchmarks evaluated with it. WWW 2024, *Expert Systems with Applications*, 2026. | [paper](https://doi.org/10.1016/J.ESWA.2025.130813) · [arXiv](https://arxiv.org/abs/2403.04503) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Every paper, with links and BibTeX, is on [danesed.github.io](https://danesed.github.io/#publications).
+The list there is read from dblp every day.
+
+## On the side
+
+**[μStats](https://danesed.github.io/muStats/)** is a lightweight system monitor for the Mac menu
+bar. It says whether all is well, which app is the cause when it is not, and what is usual for
+this Mac at this hour. Free and open source: `brew install --cask danesed/tap/mustats`.
